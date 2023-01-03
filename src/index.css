@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.pos-item{
+  cursor: pointer;
+  font-weight: bold;
+  background-color: rgba(0, 255, 255, 0.276);
+}
+
+.pos-item:hover{
+  background: rgb(101, 101, 223);
+}
